@@ -1,2 +1,2 @@
-FROM gcr.io/google-samples/microservices-demo/cartservice:v0.2.2
+FROM gcr.io/google-samples/microservices-demo/loadgenerator:v0.2.2
 MAINTAINER iamk
